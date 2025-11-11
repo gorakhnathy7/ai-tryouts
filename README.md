@@ -17,4 +17,4 @@ Each folder in this repository represents a specific task or concept related to 
 *   [Semantic_Search_Engine_with_Streamlit](./Semantic_Search_Engine_with_Streamlit/)
 <!-- FOLDER_LIST_END -->
 
-** [Inspiration - https://github.com/karpathy/LLM101n](https://github.com/karpathy/LLM101n)**
+**[Inspiration - https://github.com/karpathy/LLM101n](https://github.com/karpathy/LLM101n)**
