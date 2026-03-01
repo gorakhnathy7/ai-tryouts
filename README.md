@@ -119,14 +119,8 @@ I used to think of embeddings as magic black boxes. Now I get it — they're jus
 **On HNSW:**
 HNSW blew my mind. It's not brute-force search — it's a hierarchical graph where you zoom in from coarse to fine. Upper layers give you fast approximations, layer 0 gives you precision. The parameters (M, efConstruction, efSearch) let you trade speed for accuracy. Now I understand why vector databases can search billions of vectors in milliseconds.
 
-**On building in public:**
-Documenting these projects forced me to really understand every line of code. If I couldn't explain it clearly, I didn't understand it well enough. Writing READMEs and adding detailed comments made the learning stick.
-
 **On tooling:**
 FAISS is ridiculously fast. Streamlit makes it trivial to build interactive demos. Hugging Face has datasets and models for everything. The ecosystem around transformers and vector search is mature and well-documented — you just have to dive in.
-
-**What's next:**
-I want to implement vector search from scratch (no FAISS), explore quantization for memory efficiency, and build a RAG (Retrieval-Augmented Generation) pipeline. Also planning to dive into fine-tuning embeddings for domain-specific use cases.
 
 ---
 
@@ -138,13 +132,11 @@ This repo is heavily inspired by [Karpathy's LLM101n](https://github.com/karpath
 
 ## Links
 
-Building and learning in public over at **TechBitsbyGN**:
+Learning in public over at **TechBitsbyGN**:
 
 - **YouTube:** [youtube.com/@TechBitsbyGN](https://www.youtube.com/@TechBitsbyGN)
 - **Instagram:** [instagram.com/techbitsbygn](https://www.instagram.com/techbitsbygn)
 - **X (Twitter):** [x.com/techbitsbygn](https://x.com/techbitsbygn)
-
-Come hang out, ask questions, or share what you're building. Always down to talk AI, embeddings, or whatever you're hacking on.
 
 ---
 
